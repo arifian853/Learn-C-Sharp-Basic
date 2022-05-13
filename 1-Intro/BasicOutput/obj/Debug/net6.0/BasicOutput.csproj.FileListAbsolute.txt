@@ -1,0 +1,15 @@
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\bin\Debug\net6.0\BasicOutput.exe
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\bin\Debug\net6.0\BasicOutput.deps.json
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\bin\Debug\net6.0\BasicOutput.runtimeconfig.json
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\bin\Debug\net6.0\BasicOutput.dll
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\bin\Debug\net6.0\BasicOutput.pdb
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.csproj.AssemblyReference.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.AssemblyInfoInputs.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.AssemblyInfo.cs
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.csproj.CoreCompileInputs.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.dll
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\refint\BasicOutput.dll
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.pdb
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\BasicOutput.genruntimeconfig.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\1-intro\BasicOutput\obj\Debug\net6.0\ref\BasicOutput.dll
