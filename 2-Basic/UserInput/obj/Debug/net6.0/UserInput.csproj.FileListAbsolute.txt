@@ -1,0 +1,15 @@
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\bin\Debug\net6.0\UserInput.exe
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\bin\Debug\net6.0\UserInput.deps.json
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\bin\Debug\net6.0\UserInput.runtimeconfig.json
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\bin\Debug\net6.0\UserInput.dll
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\bin\Debug\net6.0\UserInput.pdb
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.csproj.AssemblyReference.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfo.cs
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.dll
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\refint\UserInput.dll
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.pdb
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\UserInput.genruntimeconfig.cache
+C:\Users\arifi\Documents\belajar-C-Sharp\2-Basic\UserInput\obj\Debug\net6.0\ref\UserInput.dll
